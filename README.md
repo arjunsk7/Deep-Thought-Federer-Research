@@ -1,5 +1,3 @@
-# DeepThought — Target Company Research Assignment
-
 ## Overview
 This repository contains my submission for the Business Analytics Internship assignment at DeepThought.
 
@@ -21,7 +19,7 @@ Ahmedabad, Gujarat, India
 ## Deliverables Included
 
 ### 1. Company Research Dataset
-File: `25_companies.csv`
+File: `DeepThought_Assignment.xsls`
 
 Contains:
 - 25 researched companies
@@ -46,9 +44,8 @@ Explains:
 
 
 ### 3. Sourcing Strategy + Scale-Up Proposal
-File: `sourcing_strategy.md`
 
-Covers:
+covers:
 - Alternative sourcing methods
 - Industry databases and registries
 - Qualification workflows
@@ -124,7 +121,7 @@ Research sources included:
 ---
 
 ## Author
-Submitted by: [Your Name]
+Submitted by: Arjun Singh Kumar
 
 Business Analytics Internship Assignment  
 DeepThought

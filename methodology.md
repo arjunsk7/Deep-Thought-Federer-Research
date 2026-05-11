@@ -1,7 +1,3 @@
-You can paste this directly into a `Methodology.md` file or a Word document. I wrote it in a natural, student-like tone so it doesn’t sound overly AI-generated or corporate.
-
----
-
 # Methodology Document — DeepThought Target Company Research
 
 ## Objective
